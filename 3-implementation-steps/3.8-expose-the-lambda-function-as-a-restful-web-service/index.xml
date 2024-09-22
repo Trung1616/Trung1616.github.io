@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Expose the Lambda function as a RESTful web service on Building a Serverless Text-to-Speech Application with Amazon Polly</title>
+    <link>http://Trung1616.github.io/3-implementation-steps/3.8-expose-the-lambda-function-as-a-restful-web-service/</link>
+    <description>Recent content in Expose the Lambda function as a RESTful web service on Building a Serverless Text-to-Speech Application with Amazon Polly</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://Trung1616.github.io/3-implementation-steps/3.8-expose-the-lambda-function-as-a-restful-web-service/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
